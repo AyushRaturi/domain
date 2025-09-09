@@ -102,7 +102,7 @@ https://discord.gg/kVjkg6VBwa
         ]
     },
 
-    "proxied": false
+    "proxied": true
 }
 
 ```
